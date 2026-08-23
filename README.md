@@ -2,21 +2,31 @@
 
 # 🎀 Hi, I'm Benazir 👋
 
-### Computer Science Student • QA Automation 🧪 • AI 🤖
+### Computer Science Student · QA Automation 🧪 · AI 🤖
 
 Building, testing, learning — and occasionally breaking things. 👾
 
 </div>
 
+<br>
 
-
-
-</td>
-</tr>
-</table>
 <p align="center">
-  <img src="./ChatGPT%20Image%20Aug%2022%2C%202026%2C%2011_46_34%20PM.png" width="650">
+  <img src="./kawaii-qa.png" width="600" alt="Kawaii QA Engineer">
 </p>
+
+<br>
+
+## 🎮 Player Profile
+
+👾 **Player:** Benazir  
+🧪 **Class:** QA Engineer  
+🐛 **Mission:** Find bugs before users do  
+⚡ **Level:** Selenium + PyTest  
+☕ **Energy:** ██████████ 100%
+
+> 🎯 TEST IT → BREAK IT → FIX IT → REPEAT
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -30,9 +40,23 @@ Building, testing, learning — and occasionally breaking things. 👾
 
 ## 🚀 Currently Working On
 
-🧪 **QA Automation Framework**
+### 🧪 QA Automation Framework
 
-Python • Selenium • PyTest
+Automated web testing with **Python · Selenium · PyTest**
+
+✨ Writing automated tests  
+🐛 Finding bugs  
+🧩 Learning Page Object Model  
+⚙️ Exploring GitHub Actions
+
+---
+
+## 🤖 Exploring AI
+
+🐍 Python  
+🧠 Machine Learning  
+📊 Data Analysis  
+✨ Artificial Intelligence
 
 ---
 
@@ -41,18 +65,18 @@ Python • Selenium • PyTest
 - 🐛 Build more automated tests
 - 🧩 Learn Page Object Model
 - ⚙️ Add GitHub Actions
-- 📊 Add test reports
+- 📊 Create test reports
 - 🚀 Prepare for QA Engineer roles
-
-
-## 💗 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benazir-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
 
 ---
 
 <div align="center">
 
+### 🎀 Thanks for visiting my little corner of GitHub! 🎀
+
+🐱 💻 ☕ 🐛 ✨
+
+**Always learning. Always building.**
 
 </div>
 
