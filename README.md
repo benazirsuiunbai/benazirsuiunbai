@@ -88,8 +88,4 @@ I'm interested in opportunities in:
 
 ## 📫 Connect With Me
 
-**LinkedIn:** Add LinkedIn URL here
-
----
-
-⭐ Building one project at a time.
+**LinkedIn:** https://www.linkedin.com/in/benazir-suiunbai-0b21472b3/
