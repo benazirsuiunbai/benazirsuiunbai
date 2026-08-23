@@ -14,18 +14,9 @@ Building, testing, learning — and occasionally breaking things. 👾
 </td>
 </tr>
 </table>
-
-## 🎮 Player Profile
-
-👾 **Player:** Benazir  
-🧪 **Class:** QA Engineer  
-🐛 **Mission:** Find bugs before users do  
-⚡ **Level:** Selenium + PyTest  
-☕ **Energy:** ██████████ 100%
-
-> 🎯 TEST IT → BREAK IT → FIX IT → REPEAT
-
----
+<p align="center">
+  <img src="./ChatGPT%20Image%20Aug%2022%2C%202026%2C%2011_46_34%20PM.png" width="650">
+</p>
 
 ## 🛠️ Tech Stack
 
