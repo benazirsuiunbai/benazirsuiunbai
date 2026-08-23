@@ -1,91 +1,64 @@
-# Hi, I'm Benazir 👋
+<div align="center">
 
-### Computer Science Student | QA Engineering • AI Engineering • Cybersecurity
+# 🎀 Hi, I'm Benazir 👋
 
-I'm a Computer Science student passionate about building reliable software, exploring artificial intelligence, and understanding how systems can be secured.
+### Computer Science Student • QA Automation 🧪 • AI 🤖
 
-I'm currently developing hands-on projects in **QA Automation, Artificial Intelligence, and Cybersecurity** while preparing for opportunities in the technology industry.
+Building, testing, learning — and occasionally breaking things. 👾
 
----
-
-## 🧪 QA Engineering
-
-- Software Testing
-- Test Automation
-- Python
-- Learning Selenium & PyTest
-- API Testing
-- Bug Detection & Reporting
-
-## 🤖 Artificial Intelligence
-
-- Python
-- Machine Learning
-- Data Analysis
-- Deep Learning
-- Natural Language Processing
-- AI Applications
-
-## 🛡️ Cybersecurity
-
-- Network Security
-- Wireshark
-- Cisco Packet Tracer
-- TCP/IP
-- Network Traffic Analysis
-- Security Fundamentals
+</div>
 
 ---
 
-## 💻 Technologies & Tools
+## 🎮 Player Profile
 
-**Languages**
+👾 **Player:** Benazir  
+🧪 **Class:** QA Engineer  
+🐛 **Mission:** Find bugs before users do  
+⚡ **Level:** Selenium + PyTest  
+☕ **Energy:** ██████████ 100%
 
-Python • Java • JavaScript • SQL • HTML • CSS
-
-**Tools & Technologies**
-
-Git • GitHub • VS Code • Wireshark • Cisco Packet Tracer
-
----
-
-## 🚀 Projects
-
-### 🧪 QA Automation Framework
-Building a professional automated testing framework for web applications.
-
-### 🤖 AI & Machine Learning Projects
-Developing machine learning and AI applications using Python.
-
-### 🛡️ Network Security Lab
-Analyzing network traffic, protocols, and security concepts using Wireshark and Cisco tools.
-
-> More projects coming soon as I build and document my engineering journey.
+> 🎯 TEST IT → BREAK IT → FIX IT → REPEAT
 
 ---
 
-## 🌱 Currently Learning
+## 🛠️ Tech Stack
 
-- QA Automation
-- Selenium & PyTest
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Git & GitHub
-- Software Engineering Best Practices
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities in:
-
-- QA / Test Automation Engineering
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Software Engineering
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 🚀 Currently Working On
 
-**LinkedIn:** https://www.linkedin.com/in/benazir-suiunbai-0b21472b3/
+🧪 **QA Automation Framework**
+
+Python • Selenium • PyTest
+
+---
+
+## ✨ Current Quest
+
+- 🐛 Build more automated tests
+- 🧩 Learn Page Object Model
+- ⚙️ Add GitHub Actions
+- 📊 Add test reports
+- 🚀 Prepare for QA Engineer roles
+
+---
+
+## 💗 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Benazir-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+---
+
+<div align="center">
+
+### 🌸 Keep building. Keep learning. Keep debugging. 🌸
+
+</div>
+
