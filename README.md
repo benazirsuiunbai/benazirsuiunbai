@@ -53,7 +53,6 @@ Python • Selenium • PyTest
 - 📊 Add test reports
 - 🚀 Prepare for QA Engineer roles
 
----
 
 ## 💗 Let's Connect
 
@@ -63,7 +62,6 @@ Python • Selenium • PyTest
 
 <div align="center">
 
-### 🌸 Keep building. Keep learning. Keep debugging. 🌸
 
 </div>
 
