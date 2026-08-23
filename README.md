@@ -8,7 +8,12 @@ Building, testing, learning — and occasionally breaking things. 👾
 
 </div>
 
----
+
+
+
+</td>
+</tr>
+</table>
 
 ## 🎮 Player Profile
 
